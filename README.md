@@ -24,7 +24,8 @@ The garment transforms a simple physical action—covering a sensor—into a cha
 
 Rather than controlling light through a conventional button or screen, the performer interacts with the system through the garment itself.
 
-![Initial sketch](<img width="3472" height="4624" alt="Sketch" src="https://github.com/user-attachments/assets/10220dc1-7313-4d89-8edb-b533472cdd64" />
+![Initial sketch](<img width="3230" height="4565" alt="Sketch" src="https://github.com/user-attachments/assets/bbe9e97f-a5b2-48e0-a015-7152c09107e6" />
+
 )
 
 ---
