@@ -2,7 +2,8 @@
 
 A responsive wearable prototype that allows body movement and gesture to control the colour of the Vespera lighting installation.
 
-![Final wearable light controller](images/final-product.jpg)
+![Final wearable light controller](<img width="3472" height="4624" alt="Final product" src="https://github.com/user-attachments/assets/d89d3ca6-f33b-442f-805a-cc27b4a38cf9" />
+)
 
 **Course:** CASA0014 Prototyping the Internet of Things  
 **Institution:** UCL Bartlett, Connected Environments  
@@ -22,7 +23,8 @@ The garment transforms a simple physical action—covering a sensor—into a cha
 
 Rather than controlling light through a conventional button or screen, the performer interacts with the system through the garment itself.
 
-![Initial sketch](images/sketch.jpg)
+![Initial sketch](<img width="3472" height="4624" alt="Sketch" src="https://github.com/user-attachments/assets/10220dc1-7313-4d89-8edb-b533472cdd64" />
+)
 
 ---
 
@@ -44,7 +46,9 @@ This arrangement allows the performer to use gestures to control the light. For 
 
 The garment therefore becomes a spatial and bodily interface.
 
-![Sensor placement on the jacket](images/sensor-placement.jpg)
+![Sensor placement on the jacket](<img width="3472" height="4624" alt="Installing" src="https://github.com/user-attachments/assets/d3a6c89d-1403-4933-8050-e440be3dd0f6" />
+
+)
 
 ---
 
@@ -70,13 +74,17 @@ The prototype cycles through four gradients:
 3. Blue to pink
 4. Yellow to red
 
-![Red to purple gradient](images/gradient-1.png)
+![Red to purple gradient](<img width="1575" height="824" alt="gradient 4" src="https://github.com/user-attachments/assets/fd8dbdf7-f86a-4b2a-9f25-56215bdb582f" />
+)
 
-![Green to blue gradient](images/gradient-2.png)
+![Green to blue gradient](<img width="1523" height="763" alt="Gradient 1" src="https://github.com/user-attachments/assets/e343fd75-5cce-4666-984f-31da6bb36323" />
+)
 
-![Blue to pink gradient](images/gradient-3.png)
+![Blue to pink gradient](<img width="1510" height="759" alt="gradient 2" src="https://github.com/user-attachments/assets/b3394026-5598-487d-b1f7-684773ba891f" />
+)
 
-![Yellow to red gradient](images/gradient-4.png)
+![Yellow to red gradient](<img width="1554" height="830" alt="gradient 3" src="https://github.com/user-attachments/assets/c13c476b-7d6a-4032-8669-7243b839f38e" />
+)
 
 ---
 
@@ -96,11 +104,14 @@ The prototype cycles through four gradients:
 - Vespera 72-pixel luminaire
 - Laptop for monitoring the MQTT lighting grid
 
-![Arduino and breadboard](images/arduino-breadboard.jpg)
+![Arduino and breadboard](<img width="4624" height="3472" alt="1 sensor" src="https://github.com/user-attachments/assets/71f8b16c-2ff7-4c7f-b4f3-48dd8ef3526b" />
+)
 
-![Three photoresistors installed](images/three-sensors-installed.jpg)
+![Three photoresistors installed](<img width="3472" height="4624" alt="3 sensors installed" src="https://github.com/user-attachments/assets/35193244-f341-4e7c-a5bc-7c6abd9a5169" />
+)
 
-![Battery and power switch](images/wireless-battery.jpg)
+![Battery and power switch](<img width="3472" height="4624" alt="Wireless battery installed" src="https://github.com/user-attachments/assets/a3f4449a-596e-41b7-8a0b-a8b1730f149f" />
+)
 
 ---
 
