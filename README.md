@@ -2,7 +2,8 @@
 
 A responsive wearable prototype that allows body movement and gesture to control the colour of the Vespera lighting installation.
 
-![Final wearable light controller](<img width="3472" height="4624" alt="Final product" src="https://github.com/user-attachments/assets/d89d3ca6-f33b-442f-805a-cc27b4a38cf9" />
+![Final wearable light controller](<img width="3472" height="4624" alt="Final product" src="https://github.com/user-attachments/assets/320a2c00-90a8-4665-853a-40229472dfff" />
+
 )
 
 **Course:** CASA0014 Prototyping the Internet of Things  
